@@ -1,0 +1,5 @@
+c:\users\user1\documents\visual studio 2015\Projects\HelloW\HelloW\bin\Debug\HelloW.exe.config
+c:\users\user1\documents\visual studio 2015\Projects\HelloW\HelloW\bin\Debug\HelloW.exe
+c:\users\user1\documents\visual studio 2015\Projects\HelloW\HelloW\bin\Debug\HelloW.pdb
+c:\users\user1\documents\visual studio 2015\Projects\HelloW\HelloW\obj\Debug\HelloW.exe
+c:\users\user1\documents\visual studio 2015\Projects\HelloW\HelloW\obj\Debug\HelloW.pdb
