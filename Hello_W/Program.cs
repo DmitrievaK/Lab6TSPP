@@ -10,7 +10,10 @@ namespace Hello_W
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello, world!");
+            string s =Console.ReadLine();
+            
+            Console.Write("Hello, " + s + "!");
+
             Console.ReadKey();
         }
     }
